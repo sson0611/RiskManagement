@@ -1,0 +1,42 @@
+[
+	{
+		"Name": "any",
+		"Description": "any users",
+		"defaultPrivilege": {
+			"IsSimple": true,
+			"SimplePrivilege": 2
+		}
+	},
+	{
+		"Name": "authenticated-user",
+		"Description": "authenticated users",
+		"defaultPrivilege": {
+			"IsSimple": true,
+			"SimplePrivilege": 2
+		}
+	},
+	{
+		"Name": "Riskviewer",
+		"Description": "Riskviewer",
+		"defaultPrivilege": {
+			"IsSimple": true,
+			"SimplePrivilege": 2
+		}
+	},
+	{
+		"Name": "system-user",
+		"Description": "any users",
+		"defaultPrivilege": {
+			"IsSimple": true,
+			"SimplePrivilege": 2
+		}
+	},
+	{
+		"Name": "RiskManager",
+		"Description": "RiskManager",
+		"defaultPrivilege": {
+			"IsSimple": true,
+			"SimplePrivilege": 3
+		}
+	}
+]
